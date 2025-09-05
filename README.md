@@ -28,14 +28,6 @@ Backend developer focused on <b>Java</b>, always looking to grow and learn new t
 
 ---
 
-## Current Project
-<p align="center">
-- <b>Web Platform for Donations and Volunteering</b><br>
-Frontend: React.js + Tailwind CSS<br>
-Backend: Spring Boot with JWT authentication
-</p>
-
----
 
 ## Languages
 <p align="center">
