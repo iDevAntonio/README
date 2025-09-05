@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   # Hi, I'm Antônio 👋
-</p>
+</h1>
 <p align="center">
 Backend developer focused on <b>Java</b>, always looking to grow and learn new technologies to build efficient and well-structured solutions.
 </p>
